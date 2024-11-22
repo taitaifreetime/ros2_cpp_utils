@@ -1,5 +1,5 @@
-#ifndef ROS_PARAM_HPP
-#define ROS_PARAM_HPP
+#ifndef ROS2_UTILS_HPP
+#define ROS2_UTILS_HPP
 
 #include <rclcpp/rclcpp.hpp>
 #include <rcl_interfaces/msg/parameter_descriptor.hpp>
@@ -85,4 +85,4 @@ namespace utils{
 }
 }
 
-#endif // ROS_PARAM_HPP
+#endif // ROS2_UTILS_HPP

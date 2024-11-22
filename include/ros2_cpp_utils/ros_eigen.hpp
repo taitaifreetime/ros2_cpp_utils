@@ -1,5 +1,6 @@
-#ifndef ROS_EIGEN_HPP
-#define ROS_EIGEN_HPP
+#ifndef ROS2_UTILS_ROS_EIGEN_HPP
+#define ROS2_UTILS_ROS_EIGEN_HPP
+
 #include <Eigen/Dense>
 
 namespace ros2_cpp_utils{
@@ -123,4 +124,4 @@ namespace ros_eigen{
 }
 }
 
-#endif // ROS_EIGEN_HPP
+#endif // ROS2_UTILS_ROS_EIGEN_HPP
